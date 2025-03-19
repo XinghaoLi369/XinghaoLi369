@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My English name is Victor. I am a Phd student at Monash University interested in machine unlearning.
 
 <!--
 **XinghaoLi369/XinghaoLi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
